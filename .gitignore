@@ -1,0 +1,11 @@
+# API keys and environment variables
+.env
+
+# Documentation
+*.docx
+
+#audio files
+*.m4a
+
+#json files
+*.json
